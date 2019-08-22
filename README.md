@@ -23,5 +23,7 @@ gunzip Events/run_01/pl_1000_pythia8_events.hepmc.gz
 
 ## 4. Check lifetime
 
-
+```
+Delphes->Draw("sqrt( Particle.X*Particle.X + Particle.Y*Particle.Y+Particle.Z*Particle.Z)/(sqrt(Particle.Px[Particle.M1]*Particle.Px[Particle.M1] + Particle.Py[Particle.M1]*Particle.Py[Particle.M1]+Particle.Pz[Particle.M1]*Particle.Pz[Particle.M1])/Particle.E[Particle.M1]*1./sqrt(1-(Particle.Px[Particle.M1]*Particle.Px[Particle.M1] + Particle.Py[Particle.M1]*Particle.Py[Particle.M1]+Particle.Pz[Particle.M1]*Particle.Pz[Particle.M1])/(Particle.E[Particle.M1]*Particle.E[Particle.M1])))", "Particle.PID==5 && Particle.Status==23")
+```
 
