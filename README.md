@@ -1,5 +1,17 @@
 # h-chichi-madgraph
 
+## 0. MadGraph
+
+```
+./bin/mg5_amC
+import model GldGrv_UFO
+generate p p > n2 n2,  (n2 > h01 grv, h01 > b b~) , (n2 > h01 grv, h01 > b b~ )
+# or :  generate p p > n2 n2,  (n2 > h01 gld, h01 > b b~) , (n2 > h01 gld, h01 > b b~ )
+output ../madgraph_output/MSSM-grv-1/neu2neu2-grv-hbb-hbb
+launch
+# or :  ./bin/madevent pythia8 run_01
+```
+
 ## 1. Change lifetime in lhe file
 
 ```
