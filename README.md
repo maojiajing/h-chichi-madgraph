@@ -12,6 +12,15 @@ launch
 # or :  ./bin/madevent pythia8 run_01
 ```
 
+### 0.1 Make launch list
+
+```
+python make_mass_scan.py -i /home/maojiajing/programs/madgraph_output/MSSM-1d-prod/n3n2-n1-hbb-hbb-0827 -l n3n2-n1-hbb-hbb-0827 -o n3n2-n1-hbb-hbb-m-scan.txt -n 1000 -b 125 -e 1000 -s 25
+
+# output
+n3n2-n1-hbb-hbb-m-scan.txt
+```
+
 ## 1. Change lifetime in lhe file
 
 ```
