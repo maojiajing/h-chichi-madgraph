@@ -19,6 +19,9 @@ python make_mass_scan.py -i /home/maojiajing/programs/madgraph_output/MSSM-1d-pr
 
 # output
 n3n2-n1-hbb-hbb-m-scan.txt
+
+# run the list
+./../MG5_aMC_v2_6_5/bin/mg5_aMC n3n2-n1-hbb-hbb-m-scan.txt
 ```
 
 ## 1. Change lifetime in lhe file
