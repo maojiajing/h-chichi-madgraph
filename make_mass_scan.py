@@ -29,7 +29,7 @@ if __name__ == "__main__":
         for mass_i in range(0, mass_n):
             #print('mass_i', mass_i)
             mass = mass_l + mass_i * mass_s
-            label_n = label + '_m' + str(mass) + '_evt' + str(nevt) 
+            label_n = label + '-m' + str(mass).replace('.0','') + '-evt' + str(nevt) 
             out_f.write('launch ' + inputDir + ' -n ' + label_n + ' \n')
             out_f.write('set events ' + str(nevt) + ' \n')
             out_f.write('set MNEU1 1' + ' \n')

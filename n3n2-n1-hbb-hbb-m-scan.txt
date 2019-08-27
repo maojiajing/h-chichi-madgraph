@@ -1,174 +1,174 @@
-launch /home/maojiajing/programs/madgraph_output/MSSM-1d-prod/n3n2-n1-hbb-hbb-0827 -n n3n2-n1-hbb-hbb-0827_m125.0_evt1000 
+launch /home/maojiajing/programs/madgraph_output/MSSM-1d-prod/n3n2-n1-hbb-hbb-0827 -n n3n2-n1-hbb-hbb-0827-m125-evt1000 
 set events 1000 
 set MNEU1 1 
 set MNEU2 125.0 
 set MNEU3 125.0 
-launch /home/maojiajing/programs/madgraph_output/MSSM-1d-prod/n3n2-n1-hbb-hbb-0827 -n n3n2-n1-hbb-hbb-0827_m150.0_evt1000 
+launch /home/maojiajing/programs/madgraph_output/MSSM-1d-prod/n3n2-n1-hbb-hbb-0827 -n n3n2-n1-hbb-hbb-0827-m150-evt1000 
 set events 1000 
 set MNEU1 1 
 set MNEU2 150.0 
 set MNEU3 150.0 
-launch /home/maojiajing/programs/madgraph_output/MSSM-1d-prod/n3n2-n1-hbb-hbb-0827 -n n3n2-n1-hbb-hbb-0827_m175.0_evt1000 
+launch /home/maojiajing/programs/madgraph_output/MSSM-1d-prod/n3n2-n1-hbb-hbb-0827 -n n3n2-n1-hbb-hbb-0827-m175-evt1000 
 set events 1000 
 set MNEU1 1 
 set MNEU2 175.0 
 set MNEU3 175.0 
-launch /home/maojiajing/programs/madgraph_output/MSSM-1d-prod/n3n2-n1-hbb-hbb-0827 -n n3n2-n1-hbb-hbb-0827_m200.0_evt1000 
+launch /home/maojiajing/programs/madgraph_output/MSSM-1d-prod/n3n2-n1-hbb-hbb-0827 -n n3n2-n1-hbb-hbb-0827-m200-evt1000 
 set events 1000 
 set MNEU1 1 
 set MNEU2 200.0 
 set MNEU3 200.0 
-launch /home/maojiajing/programs/madgraph_output/MSSM-1d-prod/n3n2-n1-hbb-hbb-0827 -n n3n2-n1-hbb-hbb-0827_m225.0_evt1000 
+launch /home/maojiajing/programs/madgraph_output/MSSM-1d-prod/n3n2-n1-hbb-hbb-0827 -n n3n2-n1-hbb-hbb-0827-m225-evt1000 
 set events 1000 
 set MNEU1 1 
 set MNEU2 225.0 
 set MNEU3 225.0 
-launch /home/maojiajing/programs/madgraph_output/MSSM-1d-prod/n3n2-n1-hbb-hbb-0827 -n n3n2-n1-hbb-hbb-0827_m250.0_evt1000 
+launch /home/maojiajing/programs/madgraph_output/MSSM-1d-prod/n3n2-n1-hbb-hbb-0827 -n n3n2-n1-hbb-hbb-0827-m250-evt1000 
 set events 1000 
 set MNEU1 1 
 set MNEU2 250.0 
 set MNEU3 250.0 
-launch /home/maojiajing/programs/madgraph_output/MSSM-1d-prod/n3n2-n1-hbb-hbb-0827 -n n3n2-n1-hbb-hbb-0827_m275.0_evt1000 
+launch /home/maojiajing/programs/madgraph_output/MSSM-1d-prod/n3n2-n1-hbb-hbb-0827 -n n3n2-n1-hbb-hbb-0827-m275-evt1000 
 set events 1000 
 set MNEU1 1 
 set MNEU2 275.0 
 set MNEU3 275.0 
-launch /home/maojiajing/programs/madgraph_output/MSSM-1d-prod/n3n2-n1-hbb-hbb-0827 -n n3n2-n1-hbb-hbb-0827_m300.0_evt1000 
+launch /home/maojiajing/programs/madgraph_output/MSSM-1d-prod/n3n2-n1-hbb-hbb-0827 -n n3n2-n1-hbb-hbb-0827-m300-evt1000 
 set events 1000 
 set MNEU1 1 
 set MNEU2 300.0 
 set MNEU3 300.0 
-launch /home/maojiajing/programs/madgraph_output/MSSM-1d-prod/n3n2-n1-hbb-hbb-0827 -n n3n2-n1-hbb-hbb-0827_m325.0_evt1000 
+launch /home/maojiajing/programs/madgraph_output/MSSM-1d-prod/n3n2-n1-hbb-hbb-0827 -n n3n2-n1-hbb-hbb-0827-m325-evt1000 
 set events 1000 
 set MNEU1 1 
 set MNEU2 325.0 
 set MNEU3 325.0 
-launch /home/maojiajing/programs/madgraph_output/MSSM-1d-prod/n3n2-n1-hbb-hbb-0827 -n n3n2-n1-hbb-hbb-0827_m350.0_evt1000 
+launch /home/maojiajing/programs/madgraph_output/MSSM-1d-prod/n3n2-n1-hbb-hbb-0827 -n n3n2-n1-hbb-hbb-0827-m350-evt1000 
 set events 1000 
 set MNEU1 1 
 set MNEU2 350.0 
 set MNEU3 350.0 
-launch /home/maojiajing/programs/madgraph_output/MSSM-1d-prod/n3n2-n1-hbb-hbb-0827 -n n3n2-n1-hbb-hbb-0827_m375.0_evt1000 
+launch /home/maojiajing/programs/madgraph_output/MSSM-1d-prod/n3n2-n1-hbb-hbb-0827 -n n3n2-n1-hbb-hbb-0827-m375-evt1000 
 set events 1000 
 set MNEU1 1 
 set MNEU2 375.0 
 set MNEU3 375.0 
-launch /home/maojiajing/programs/madgraph_output/MSSM-1d-prod/n3n2-n1-hbb-hbb-0827 -n n3n2-n1-hbb-hbb-0827_m400.0_evt1000 
+launch /home/maojiajing/programs/madgraph_output/MSSM-1d-prod/n3n2-n1-hbb-hbb-0827 -n n3n2-n1-hbb-hbb-0827-m400-evt1000 
 set events 1000 
 set MNEU1 1 
 set MNEU2 400.0 
 set MNEU3 400.0 
-launch /home/maojiajing/programs/madgraph_output/MSSM-1d-prod/n3n2-n1-hbb-hbb-0827 -n n3n2-n1-hbb-hbb-0827_m425.0_evt1000 
+launch /home/maojiajing/programs/madgraph_output/MSSM-1d-prod/n3n2-n1-hbb-hbb-0827 -n n3n2-n1-hbb-hbb-0827-m425-evt1000 
 set events 1000 
 set MNEU1 1 
 set MNEU2 425.0 
 set MNEU3 425.0 
-launch /home/maojiajing/programs/madgraph_output/MSSM-1d-prod/n3n2-n1-hbb-hbb-0827 -n n3n2-n1-hbb-hbb-0827_m450.0_evt1000 
+launch /home/maojiajing/programs/madgraph_output/MSSM-1d-prod/n3n2-n1-hbb-hbb-0827 -n n3n2-n1-hbb-hbb-0827-m450-evt1000 
 set events 1000 
 set MNEU1 1 
 set MNEU2 450.0 
 set MNEU3 450.0 
-launch /home/maojiajing/programs/madgraph_output/MSSM-1d-prod/n3n2-n1-hbb-hbb-0827 -n n3n2-n1-hbb-hbb-0827_m475.0_evt1000 
+launch /home/maojiajing/programs/madgraph_output/MSSM-1d-prod/n3n2-n1-hbb-hbb-0827 -n n3n2-n1-hbb-hbb-0827-m475-evt1000 
 set events 1000 
 set MNEU1 1 
 set MNEU2 475.0 
 set MNEU3 475.0 
-launch /home/maojiajing/programs/madgraph_output/MSSM-1d-prod/n3n2-n1-hbb-hbb-0827 -n n3n2-n1-hbb-hbb-0827_m500.0_evt1000 
+launch /home/maojiajing/programs/madgraph_output/MSSM-1d-prod/n3n2-n1-hbb-hbb-0827 -n n3n2-n1-hbb-hbb-0827-m500-evt1000 
 set events 1000 
 set MNEU1 1 
 set MNEU2 500.0 
 set MNEU3 500.0 
-launch /home/maojiajing/programs/madgraph_output/MSSM-1d-prod/n3n2-n1-hbb-hbb-0827 -n n3n2-n1-hbb-hbb-0827_m525.0_evt1000 
+launch /home/maojiajing/programs/madgraph_output/MSSM-1d-prod/n3n2-n1-hbb-hbb-0827 -n n3n2-n1-hbb-hbb-0827-m525-evt1000 
 set events 1000 
 set MNEU1 1 
 set MNEU2 525.0 
 set MNEU3 525.0 
-launch /home/maojiajing/programs/madgraph_output/MSSM-1d-prod/n3n2-n1-hbb-hbb-0827 -n n3n2-n1-hbb-hbb-0827_m550.0_evt1000 
+launch /home/maojiajing/programs/madgraph_output/MSSM-1d-prod/n3n2-n1-hbb-hbb-0827 -n n3n2-n1-hbb-hbb-0827-m550-evt1000 
 set events 1000 
 set MNEU1 1 
 set MNEU2 550.0 
 set MNEU3 550.0 
-launch /home/maojiajing/programs/madgraph_output/MSSM-1d-prod/n3n2-n1-hbb-hbb-0827 -n n3n2-n1-hbb-hbb-0827_m575.0_evt1000 
+launch /home/maojiajing/programs/madgraph_output/MSSM-1d-prod/n3n2-n1-hbb-hbb-0827 -n n3n2-n1-hbb-hbb-0827-m575-evt1000 
 set events 1000 
 set MNEU1 1 
 set MNEU2 575.0 
 set MNEU3 575.0 
-launch /home/maojiajing/programs/madgraph_output/MSSM-1d-prod/n3n2-n1-hbb-hbb-0827 -n n3n2-n1-hbb-hbb-0827_m600.0_evt1000 
+launch /home/maojiajing/programs/madgraph_output/MSSM-1d-prod/n3n2-n1-hbb-hbb-0827 -n n3n2-n1-hbb-hbb-0827-m600-evt1000 
 set events 1000 
 set MNEU1 1 
 set MNEU2 600.0 
 set MNEU3 600.0 
-launch /home/maojiajing/programs/madgraph_output/MSSM-1d-prod/n3n2-n1-hbb-hbb-0827 -n n3n2-n1-hbb-hbb-0827_m625.0_evt1000 
+launch /home/maojiajing/programs/madgraph_output/MSSM-1d-prod/n3n2-n1-hbb-hbb-0827 -n n3n2-n1-hbb-hbb-0827-m625-evt1000 
 set events 1000 
 set MNEU1 1 
 set MNEU2 625.0 
 set MNEU3 625.0 
-launch /home/maojiajing/programs/madgraph_output/MSSM-1d-prod/n3n2-n1-hbb-hbb-0827 -n n3n2-n1-hbb-hbb-0827_m650.0_evt1000 
+launch /home/maojiajing/programs/madgraph_output/MSSM-1d-prod/n3n2-n1-hbb-hbb-0827 -n n3n2-n1-hbb-hbb-0827-m650-evt1000 
 set events 1000 
 set MNEU1 1 
 set MNEU2 650.0 
 set MNEU3 650.0 
-launch /home/maojiajing/programs/madgraph_output/MSSM-1d-prod/n3n2-n1-hbb-hbb-0827 -n n3n2-n1-hbb-hbb-0827_m675.0_evt1000 
+launch /home/maojiajing/programs/madgraph_output/MSSM-1d-prod/n3n2-n1-hbb-hbb-0827 -n n3n2-n1-hbb-hbb-0827-m675-evt1000 
 set events 1000 
 set MNEU1 1 
 set MNEU2 675.0 
 set MNEU3 675.0 
-launch /home/maojiajing/programs/madgraph_output/MSSM-1d-prod/n3n2-n1-hbb-hbb-0827 -n n3n2-n1-hbb-hbb-0827_m700.0_evt1000 
+launch /home/maojiajing/programs/madgraph_output/MSSM-1d-prod/n3n2-n1-hbb-hbb-0827 -n n3n2-n1-hbb-hbb-0827-m700-evt1000 
 set events 1000 
 set MNEU1 1 
 set MNEU2 700.0 
 set MNEU3 700.0 
-launch /home/maojiajing/programs/madgraph_output/MSSM-1d-prod/n3n2-n1-hbb-hbb-0827 -n n3n2-n1-hbb-hbb-0827_m725.0_evt1000 
+launch /home/maojiajing/programs/madgraph_output/MSSM-1d-prod/n3n2-n1-hbb-hbb-0827 -n n3n2-n1-hbb-hbb-0827-m725-evt1000 
 set events 1000 
 set MNEU1 1 
 set MNEU2 725.0 
 set MNEU3 725.0 
-launch /home/maojiajing/programs/madgraph_output/MSSM-1d-prod/n3n2-n1-hbb-hbb-0827 -n n3n2-n1-hbb-hbb-0827_m750.0_evt1000 
+launch /home/maojiajing/programs/madgraph_output/MSSM-1d-prod/n3n2-n1-hbb-hbb-0827 -n n3n2-n1-hbb-hbb-0827-m750-evt1000 
 set events 1000 
 set MNEU1 1 
 set MNEU2 750.0 
 set MNEU3 750.0 
-launch /home/maojiajing/programs/madgraph_output/MSSM-1d-prod/n3n2-n1-hbb-hbb-0827 -n n3n2-n1-hbb-hbb-0827_m775.0_evt1000 
+launch /home/maojiajing/programs/madgraph_output/MSSM-1d-prod/n3n2-n1-hbb-hbb-0827 -n n3n2-n1-hbb-hbb-0827-m775-evt1000 
 set events 1000 
 set MNEU1 1 
 set MNEU2 775.0 
 set MNEU3 775.0 
-launch /home/maojiajing/programs/madgraph_output/MSSM-1d-prod/n3n2-n1-hbb-hbb-0827 -n n3n2-n1-hbb-hbb-0827_m800.0_evt1000 
+launch /home/maojiajing/programs/madgraph_output/MSSM-1d-prod/n3n2-n1-hbb-hbb-0827 -n n3n2-n1-hbb-hbb-0827-m800-evt1000 
 set events 1000 
 set MNEU1 1 
 set MNEU2 800.0 
 set MNEU3 800.0 
-launch /home/maojiajing/programs/madgraph_output/MSSM-1d-prod/n3n2-n1-hbb-hbb-0827 -n n3n2-n1-hbb-hbb-0827_m825.0_evt1000 
+launch /home/maojiajing/programs/madgraph_output/MSSM-1d-prod/n3n2-n1-hbb-hbb-0827 -n n3n2-n1-hbb-hbb-0827-m825-evt1000 
 set events 1000 
 set MNEU1 1 
 set MNEU2 825.0 
 set MNEU3 825.0 
-launch /home/maojiajing/programs/madgraph_output/MSSM-1d-prod/n3n2-n1-hbb-hbb-0827 -n n3n2-n1-hbb-hbb-0827_m850.0_evt1000 
+launch /home/maojiajing/programs/madgraph_output/MSSM-1d-prod/n3n2-n1-hbb-hbb-0827 -n n3n2-n1-hbb-hbb-0827-m850-evt1000 
 set events 1000 
 set MNEU1 1 
 set MNEU2 850.0 
 set MNEU3 850.0 
-launch /home/maojiajing/programs/madgraph_output/MSSM-1d-prod/n3n2-n1-hbb-hbb-0827 -n n3n2-n1-hbb-hbb-0827_m875.0_evt1000 
+launch /home/maojiajing/programs/madgraph_output/MSSM-1d-prod/n3n2-n1-hbb-hbb-0827 -n n3n2-n1-hbb-hbb-0827-m875-evt1000 
 set events 1000 
 set MNEU1 1 
 set MNEU2 875.0 
 set MNEU3 875.0 
-launch /home/maojiajing/programs/madgraph_output/MSSM-1d-prod/n3n2-n1-hbb-hbb-0827 -n n3n2-n1-hbb-hbb-0827_m900.0_evt1000 
+launch /home/maojiajing/programs/madgraph_output/MSSM-1d-prod/n3n2-n1-hbb-hbb-0827 -n n3n2-n1-hbb-hbb-0827-m900-evt1000 
 set events 1000 
 set MNEU1 1 
 set MNEU2 900.0 
 set MNEU3 900.0 
-launch /home/maojiajing/programs/madgraph_output/MSSM-1d-prod/n3n2-n1-hbb-hbb-0827 -n n3n2-n1-hbb-hbb-0827_m925.0_evt1000 
+launch /home/maojiajing/programs/madgraph_output/MSSM-1d-prod/n3n2-n1-hbb-hbb-0827 -n n3n2-n1-hbb-hbb-0827-m925-evt1000 
 set events 1000 
 set MNEU1 1 
 set MNEU2 925.0 
 set MNEU3 925.0 
-launch /home/maojiajing/programs/madgraph_output/MSSM-1d-prod/n3n2-n1-hbb-hbb-0827 -n n3n2-n1-hbb-hbb-0827_m950.0_evt1000 
+launch /home/maojiajing/programs/madgraph_output/MSSM-1d-prod/n3n2-n1-hbb-hbb-0827 -n n3n2-n1-hbb-hbb-0827-m950-evt1000 
 set events 1000 
 set MNEU1 1 
 set MNEU2 950.0 
 set MNEU3 950.0 
-launch /home/maojiajing/programs/madgraph_output/MSSM-1d-prod/n3n2-n1-hbb-hbb-0827 -n n3n2-n1-hbb-hbb-0827_m975.0_evt1000 
+launch /home/maojiajing/programs/madgraph_output/MSSM-1d-prod/n3n2-n1-hbb-hbb-0827 -n n3n2-n1-hbb-hbb-0827-m975-evt1000 
 set events 1000 
 set MNEU1 1 
 set MNEU2 975.0 
