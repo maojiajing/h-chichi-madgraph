@@ -29,6 +29,8 @@ if __name__ == "__main__":
         for mass_i in range(0, mass_n):
             #print('mass_i', mass_i)
             mass = mass_l + mass_i * mass_s
+            if mass==125:
+                mass =127
             label_n = label + '-m' + str(mass).replace('.0','') + '-evt' + str(nevt) 
             out_f.write('launch ' + inputDir + ' -n ' + label_n + ' \n')
             out_f.write('set nevents ' + str(nevt) + ' \n')
