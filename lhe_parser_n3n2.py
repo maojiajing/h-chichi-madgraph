@@ -3107,7 +3107,7 @@ if '__main__' == __name__:
                 p=random.uniform(0,1)
 		x=float(sys.argv[3])*math.log(1/(1-p))
 		# modify particle attribute: here remove the mass
-                if particle.pid ==1000023 or particle.pid == 1000024:
+                if particle.pid ==1000023 or particle.pid == 1000025:
                     particle.vtim = x # The one associate to distance travelled by the particle.
     
             #write this modify event
