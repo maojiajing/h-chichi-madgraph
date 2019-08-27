@@ -26,7 +26,6 @@ pl = opt.ctau
 
 card='/home/maojiajing/programs/delphes/cards/delphes_card_CMS.tcl'
 delDir=inputDir.replace('madgraph','delphes')
-t2_dir='/data/jmao/LHE/'
 
 if __name__ == "__main__":
         pwd = os.getcwd()
@@ -45,8 +44,15 @@ if __name__ == "__main__":
             out_f.write('cp lhe_parser_n3n2.py ' + inputDir + '/bin/internal/lhe_parser.py ' + ' \n')
             out_f.write('cd ' + inputDir + ' \n')
             out_f.write('python bin/internal/lhe_parser.py ' + lhe_in + ' ' + lhe_out + ' ' + str(int(pl)) + ' \n')
-            lhe_pl_out = t2_dir + 'm' + str(int(mass)) + '_pl'+str(int(pl))+'.lhe'
-            out_f.write('scp ' + lhe_out + ' jmao@login-1.hep.caltech.edu:' + lhe_pl_out + ' \n')
+            out_f.write('gzip ' + lhe_out + ' \n')
+            out_f.write('mv ' + lhe_out + ' ' + lhe_in + ' \n')
+            out_f.write('cd ' + inputDir + ' \n')
+            out_f.write('./bin/madevent pythia8 ' + label_n + ' --tag=pl_' + str(int(pl)) + ' \n')
+            out_f.write('cd ' + ' \n')
+            hepmc_out = run_dir + 'pl_'+str(int(pl))+'_pythia8_events.hepmc.gz'
+            out_f.write('gunzip ' + hepmc_out + ' \n')
+            del_out = delDir + '/' + label_n + '.root'
+            out_f.write('./programs/delphes/DelphesHepMC ' +card + ' ' + del_out + ' ' + hepmc_out.replace('.gz','') + ' \n')
             out_f.write('cd ' + curDir + ' \n')
         out_f.close()
 
