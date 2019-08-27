@@ -31,7 +31,7 @@ if __name__ == "__main__":
             mass = mass_l + mass_i * mass_s
             label_n = label + '-m' + str(mass).replace('.0','') + '-evt' + str(nevt) 
             out_f.write('launch ' + inputDir + ' -n ' + label_n + ' \n')
-            out_f.write('set events ' + str(nevt) + ' \n')
+            out_f.write('set nevents ' + str(nevt) + ' \n')
             out_f.write('set MNEU1 1' + ' \n')
             out_f.write('set MNEU2 ' + str(mass) + ' \n')
             out_f.write('set MNEU3 ' + str(mass) + ' \n')
