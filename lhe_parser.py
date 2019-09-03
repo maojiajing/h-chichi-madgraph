@@ -3089,7 +3089,7 @@ if '__main__' == __name__:
     
             #write this modify event
             output.write(str(event))
-        output.write('</LesHouchesEvent>\n')
+        output.write('</LesHouchesEvents>\n')
         
     # Example 2: adding some missing information to the event (here distance travelled)
     if True: 
@@ -3112,7 +3112,7 @@ if '__main__' == __name__:
     
             #write this modify event
             output.write(str(event))
-        output.write('</LesHouchesEvent>\n')
+        output.write('</LesHouchesEvents>\n')
         
     # Example 3: Plotting some variable
     if False:
